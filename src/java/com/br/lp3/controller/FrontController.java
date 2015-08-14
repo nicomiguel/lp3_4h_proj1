@@ -40,8 +40,10 @@ public class FrontController extends HttpServlet {
             if(command.startsWith("login")){
                 
                 if(command.endsWith("login")){
-                    //AÇÕES DE LOGIN
+                    //AÇÕES DE LOGIN jwehfkjdshfkdx
+           
                 }
+                
             }
             
             
